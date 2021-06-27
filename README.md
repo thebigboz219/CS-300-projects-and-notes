@@ -1,1 +1,4 @@
-# CS-300-projects-and-notes
+# This project was a challenge to see if we could read a document for information, seperate said information into their respective chunks and store them in data objects that could be added to a list of our choosing.
+# Approaching this problem I decided to take the binary tree approach. During our previous assignments I found this data structure to be easier to both maintain and implement. 
+# Designing this list and reading through the document proved to be the easiest part of the project. The main roadblock came when I needed to read through the line first to make sure it wasn't missing required information for the course object. I researched a 'new' bit of code to help me accomplish this task and saved the reference material for later projects.
+# After doing this project I've come to understand that the more methods you have for handling sections of tasks can help you pinpoint where your errors are happening a little easier. They also allow others to read through and edit more clearly for their own tasks.
